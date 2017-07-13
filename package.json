@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/Goosetaculous/FriendFinder/issues"
   },
-  "homepage": "https://github.com/Goosetaculous/FriendFinder#readme"
+  "homepage": "https://github.com/Goosetaculous/FriendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "nodemon": "^1.11.0",
+    "path": "^0.12.7"
+  }
 }
